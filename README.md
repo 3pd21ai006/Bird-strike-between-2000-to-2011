@@ -32,6 +32,8 @@ Analyzes the effects of bird strikes on flight operations, including precautiona
 Relation Between Pilot Warnings and Strike Outcomes
 Investigates whether prior warnings about bird activity reduced the severity or frequency of incidents, providing insights into the importance of proactive communication.
 
+
+
 Data Summary
 Total Number of Bird Strikes: 23,080
 Total Cost Incurred: $1.58M
@@ -43,13 +45,20 @@ Tools and Technologies Used
 Power BI: Used to create visually compelling, interactive dashboards for data analysis and presentation.
 Excel: Utilized for data cleaning, structuring, and pre-processing.
 Installation and Usage
+
+
 Clone this repository to your local machine:
 bash
 Copy
 Edit
+
 git clone https://github.com/yourusername/bird-strikes-analysis.git
+
+
 Open the Power BI dashboard file (bird_strikes_dashboard.pbix) to explore the analysis interactively.
 Use the accompanying dataset file (Bird_Strikes_2000_2011.xlsx) for additional insights and data exploration.
+
+
 Insights and Recommendations
 Based on the analysis, several key recommendations have been identified to reduce the risks and impacts of bird strikes:
 
