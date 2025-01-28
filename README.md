@@ -47,14 +47,6 @@ Excel: Utilized for data cleaning, structuring, and pre-processing.
 Installation and Usage
 
 
-Clone this repository to your local machine:
-bash
-Copy
-Edit
-
-git clone https://github.com/yourusername/bird-strikes-analysis.git
-
-
 Open the Power BI dashboard file (bird_strikes_dashboard.pbix) to explore the analysis interactively.
 Use the accompanying dataset file (Bird_Strikes_2000_2011.xlsx) for additional insights and data exploration.
 
